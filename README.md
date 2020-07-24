@@ -1,1 +1,1 @@
-![image](https://media.giphy.com/media/9Y1uuCxj8AWiC4FjOc/giphy.gif)
+![image](https://github.com/DavideAllavena/DavideAllavena/raw/master/rotate.gif)
