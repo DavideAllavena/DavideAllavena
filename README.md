@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![HiThere](https://media.giphy.com/media/9Y1uuCxj8AWiC4FjOc/giphy.gif)
 <!--
 **DavideAllavena/DavideAllavena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
